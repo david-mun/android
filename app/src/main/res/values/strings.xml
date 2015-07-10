@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstDayApp</string>
+
+    <string name="first_line">first line ---</string>
+    <string name="second_line">second line ---</string>
+    <string name="action_settings">Settings</string>
+</resources>
